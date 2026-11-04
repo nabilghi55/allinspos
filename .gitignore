@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+
+# Frontend build artifacts and dependencies
+frontend/node_modules/
+frontend/dist/
+
+# Local backend binary
+backend/pos-server
+
+# Local operational data
+backend/pos_store.json
